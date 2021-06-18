@@ -1,0 +1,28 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\POV LED取模软件.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\POV LED取模软件.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\bin\Debug\POV LED取模软件.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp1\bin\Debug\POV LED取模软件.exe.manifest
+C:\Users\Administrator\source\repos\WindowsFormsApp1\bin\Debug\POV LED取模软件.application
+C:\Users\Administrator\source\repos\WindowsFormsApp1\bin\Debug\POV LED取模软件.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\bin\Debug\POV LED取模软件.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\POV LED取模软件.exe.manifest
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\POV LED取模软件.application
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\POV LED取模软件.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\POV LED取模软件.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\POV LED取模软件.csprojResolveAssemblyReference.cache
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\POV LED取模软件.csproj.GenerateResource.cache
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\POV LED取模软件.csproj.CoreCompileInputs.cache
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\POV LED取模软件.exe
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\POV LED取模软件.pdb
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\bin\Debug\POV LED取模软件.exe.config
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\bin\Debug\POV LED取模软件.exe.manifest
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\bin\Debug\POV LED取模软件.application
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\bin\Debug\POV LED取模软件.exe
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\bin\Debug\POV LED取模软件.pdb
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\POV LED取模软件.csprojAssemblyReference.cache
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\POV LED取模软件.exe.manifest
+F:\BaiduNetdiskDownload\POV LED 取模软件\POV_LED_VS\obj\Debug\POV LED取模软件.application
